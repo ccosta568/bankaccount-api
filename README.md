@@ -1,6 +1,5 @@
 # bankaccount-api
-bank account for Revature project 0
-Christopher Costa's Bank Account Project, based off the NFL Buccaneers!
+Christopher Costa's Bank Account Project, based off the NFL Buccaneers! <br>
 End Points have a Postman Request
 Data is Stored in a DB
 Data access is through the use of a DAO
